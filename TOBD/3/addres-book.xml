@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<address_book>
+<address id="1">
+	<name>Bruce Lee</name>
+	<email>bruce@gmail.com</email>
+	<phones>
+		<phone type="work">232-17-45</phone>
+		<phone type="home" code="true">+7 (912) 212-34-12</phone>
+	</phones>	
+	<birthday>11.07.1984</birthday>
+</address>
+<!-- This is comment in XML -->
+<address id="2">
+	<name>Alice Lee</name>
+	<email>alee@yandex.ru</email>
+	<work>John&amp;son</work>
+	<phones/>
+	<birthday>22.03.1985</birthday>
+</address>
+</address_book>
+
